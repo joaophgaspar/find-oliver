@@ -186,5 +186,12 @@ ul {
 }
 
 .flag {
-    display: none
+    display: none;
+    width: 40px;
+}
+
+#flags_div {
+    position: absolute;
+    top: 5px;
+    right: 14px;
 }
