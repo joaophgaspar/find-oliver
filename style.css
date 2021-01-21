@@ -166,3 +166,25 @@ ul {
     list-style-type: none;
     padding-inline-start: 0px;
 }
+
+#rotation_div {
+    padding-bottom: 30px;
+}
+
+#rotation_img {
+    -webkit-animation: rotation 10s infinite linear;
+    width: 70px;
+}
+
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+    to {
+        -webkit-transform: rotate(359deg);
+    }
+}
+
+.flag {
+    display: none
+}
