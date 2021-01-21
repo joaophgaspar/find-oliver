@@ -96,6 +96,16 @@ body {
     height: 100%;
 }
 
+.align_contact {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#align_copy {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .image {
     position: -webkit-sticky;
     position: sticky;
