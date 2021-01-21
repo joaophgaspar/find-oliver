@@ -47,6 +47,8 @@ body {
     color: #848d96;
     font-size: 18px;
     line-height: 140%;
+    /* padding-bottom: 50px; */
+    padding-bottom: 15%;
 }
 
 #align_picture {
@@ -56,11 +58,17 @@ body {
     height: 100%;
 }
 
-#margin_text {
-    padding-top: 15%;
-    padding-bottom: 15%;
+.margin_text {
     padding-right: 15%;
     padding-left: 15%;
+}
+
+#margin_text {
+    padding-top: 10%;
+}
+
+#margin_bottom {
+    margin-bottom: 10%;
 }
 
 #image {
@@ -84,7 +92,7 @@ body {
     height: 100%;
 }
 
-.row {
+#first_row {
     height: 100%;
 }
 
@@ -130,4 +138,21 @@ body {
         height: 240px;
         max-height: 30vh;
     }
+}
+
+a,
+a:hover,
+a:focus {
+    color: #848d96;
+    text-decoration: none;
+}
+
+.credit {
+    color: #485462;
+    font-size: 13px;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
 }
