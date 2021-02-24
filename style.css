@@ -148,6 +148,10 @@ body {
         height: 240px;
         max-height: 30vh;
     }
+    .margin_text {
+        padding-right: 2%;
+        padding-left: 2%;
+    }
 }
 
 a,
