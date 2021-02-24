@@ -187,11 +187,12 @@ ul {
 
 .flag {
     display: none;
-    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #flags_div {
     position: absolute;
-    top: 5px;
-    right: 14px;
+    top: 20px;
+    right: 20px;
 }
