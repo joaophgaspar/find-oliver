@@ -19,6 +19,6 @@ const texts = {
     },
     "en": {
         title: "Hello!<br>I'm Oliver,<br>but you can call me Oli.",
-        description: "If you are reading this it is probably I got lost and I don't know the way home. I'm from Fatima but at the moment I'm studying in Lisbon. I have already learned to sit, to give the paw, to lie down, to spin and to (almost) always defecate in the street.<br>I would really appreciate it if you could contact my parents, as soon as possible, that they should be worried. Dinner should be ready soon and I have to eat and go to bed, since I have early classes tomorrow.<br><br><b>Thanks for finding me</b> 🐶"
+        description: "If you are reading this it is probably I got lost and I don't know the way home. I'm from Fatima but at the moment I'm studying in Lisbon. I have already learned to sit, to give the paw, to lie down, to spin and to (almost) always pee and poo on the street.<br>I would really appreciate it if you could contact my parents, as soon as possible, that they should be worried. Dinner should be ready soon and I have to eat and go to bed, since I have early classes tomorrow.<br><br><b>Thanks for finding me</b> 🐶"
     },
 }
